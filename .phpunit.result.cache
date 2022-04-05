@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"CheckoutTest::testValidDBControllerInstance":0.023,"CheckoutTest::testGetDiscountedPrice":0.031,"CheckoutTest::testValidateGetDiscountedPrice":0.004}}
+{"version":1,"defects":[],"times":{"CheckoutTest::testValidDBControllerInstance":0.053,"CheckoutTest::testGetDiscountedPrice":0.055,"CheckoutTest::testValidateGetDiscountedPrice":0.004}}
